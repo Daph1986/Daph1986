@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/Daph1986/Daph1986/main/Daph1986.png" alt="Illustration of Daphne" width=273px height=400px/>
+
 ### Hi there, I'm Daphne 👋
 
 
