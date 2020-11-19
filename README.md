@@ -2,9 +2,10 @@
 
 ### Hi there, I'm Daphne 👋
 
+I'm an allround employee at Postfly.nl and hoping to start soon with my adventure of learing at Code Institute.
 
 - 🏢 I’m currently working at company specialized in offset printing.
-- 🎓 I’m currently learning everything about becoming a full stack developer, I’m completely ne to this.
-- 😄 Pronouns: she / hers
-- ✨ Fun fact: I love to do yoga, cook Japanese food and travel.
-
+- 🎒 I’m currently learning everything about becoming a full stack developer, I’m completely new to this.
+- 😄 Pronouns: she / hers.
+- 🌔 Fun fact: I love to do yoga🙏, cook Japanese food 🍱 and travel ✈️.
+- 💓 Other: Married and mother to a son 💙.
