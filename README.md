@@ -4,7 +4,7 @@
 
 I'm an allround employee at Postfly.nl and hoping to start soon with my adventure of learing at Code Institute.
 
-- 🏢 I’m currently working at company specialized in offset printing.
+- 🏢 I currently work at company specialized in offset printing.
 - 🎒 I’m currently learning everything about becoming a full stack developer, I’m completely new to this.
 - 😄 Pronouns: she / hers.
 - 🌔 Fun fact: I love to do yoga🙏, cook Japanese food 🍱 and travel ✈️.
