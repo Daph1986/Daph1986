@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Daphne 👋
 
-I'm an allround employee at Postfly.nl and just started my adventure of learning at Code Institute.
+I'm an allround employee at Postfly.nl and a student at Code Institute.
 
 - 🏢 I currently work at a company specialized in offset printing.
 - 🎒 I’m currently learning everything about becoming a full stack developer, I’m completely new to this.
