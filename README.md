@@ -2,10 +2,18 @@
 
 ### Hi there, I'm Daphne 👋
 
-I'm an allround employee at Postfly.nl and a student at Code Institute.
+I'm an allround employee at Postfly.nl and a junior full-stack developer student at Code Institute.
 
-- 🏢 I currently work at a company specialized in offset printing.
-- 🎒 I’m currently learning everything about becoming a full stack developer, I’m completely new to this.
+### Currently working
+
+🏢 I currently work at a company specialized in offset printing.
+I'm currently work on :art:[POSTFLY Business Card Creator](https://github.com/Daph1986/Postfly-business-card-creator)
+
+### Projects I have finished:
+
+:full_moon: [Follow the moon](https://github.com/Daph1986/Follow-the-moon)
+
+### Other info:
 - 😄 Pronouns: she / hers.
-- 🌔 Fun fact: I love to do yoga🙏, cook Japanese food 🍱 and travel ✈️.
+- 🌔 Fun fact: I love to do yoga🙏, cook Japanese :crossed_flags:food 🍱 and travel ✈️.
 - 💓 Other: Married and mother to a son 💙.
