@@ -29,8 +29,8 @@ I'm currently working on :art:[POSTFLY Business Card Creator](https://github.com
 - 💓 Other: Married and mother to a son 💙.
 
 #### Ways to contact me :pager: :
-[LinkedIn](https://www.linkedin.com/in/daphne-heimgartner/)
-[Twitter](https://twitter.com/Daphn1986)
+:handshake: [LinkedIn](https://www.linkedin.com/in/daphne-heimgartner/)<br>
+:dove: [Twitter](https://twitter.com/Daphn1986)
 
 <br />
 <br />
