@@ -33,10 +33,9 @@ I'm currently working on: <br> :art:[POSTFLY Business Card Creator](https://gith
 :dove: [Twitter](https://twitter.com/Daphn1986)
 
 <br />
+
+<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Daph1986&show_icons=true&hide_border=true" />
+
 <br />
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Daph1986&show_icons=true&hide_border=true" />
-
-<br />
-<br />
 
