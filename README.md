@@ -11,7 +11,7 @@ I'm currently working on :art:[POSTFLY Business Card Creator](https://github.com
 
 ### Projects I have finished:
 
-:full_moon: 
+:full_moon: [Follow the moon](https://github.com/Daph1986/Follow-the-moon)
 
 ### :gear: Technologies which I'm familiar with:
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
