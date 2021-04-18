@@ -25,8 +25,8 @@ I'm currently working on: <br> :art:[POSTFLY Business Card Creator](https://gith
 
 ### Other info:
 - 😄 Pronouns: she / hers.
-- 🌔 Fun fact: I love to do yoga🙏, cook Japanese :crossed_flags:food 🍱 and travel ✈️.
-- 💓 Other: Married and mother to a son 💙.
+- :sunrise: Fun fact: I love to do yoga🙏, cook Japanese :crossed_flags:food 🍱 and travel ✈️.
+- :love_hotel: Other: 💓 Married and mother to a son 💙.
 
 #### Ways to contact me :pager: :
 :handshake: [LinkedIn](https://www.linkedin.com/in/daphne-heimgartner/)<br>
