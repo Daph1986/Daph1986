@@ -11,9 +11,32 @@ I'm currently working on :art:[POSTFLY Business Card Creator](https://github.com
 
 ### Projects I have finished:
 
-:full_moon: [Follow the moon](https://github.com/Daph1986/Follow-the-moon)
+:full_moon: 
+
+### :gear: Technologies which I'm familiar with:
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
+![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
+![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/irinatu17)
+![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
 
 ### Other info:
 - 😄 Pronouns: she / hers.
 - 🌔 Fun fact: I love to do yoga🙏, cook Japanese :crossed_flags:food 🍱 and travel ✈️.
 - 💓 Other: Married and mother to a son 💙.
+
+#### Ways to contact me :pager: :
+[LinkedIn](https://www.linkedin.com/in/daphne-heimgartner/)
+[Twitter](https://twitter.com/Daphn1986)
+
+<br />
+<br />
+
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Daph1986&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+
