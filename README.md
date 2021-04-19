@@ -7,7 +7,7 @@ I'm an allround employee at Postfly.nl and a junior full-stack developer student
 ### Currently working
 
 I currently work at a company specialized in offset printing, since 2016 I'm working from my home office :house: 🏢  <br>
-I'm currently working on: <br> :art:[POSTFLY Business Card Creator](https://github.com/Daph1986/Postfly-business-card-creator)
+I'm currently working on: <br> My milestone 2 project for Code Institute :art:[POSTFLY Business Card Creator](https://github.com/Daph1986/Postfly-business-card-creator)
 
 ### Projects I have finished:
 
