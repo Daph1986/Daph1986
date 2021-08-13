@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Daph1986/Daph1986/blob/main/Bewegend%20logo%20500x500%20%20px.gif" alt="Daphne" width=750px height=500px/>
+<img align="center" src="https://github.com/Daph1986/Daph1986/blob/main/Bewegend%20logo%20500x500%20%20px.gif" alt="Daphne" width=550px height=300px/>
 
 I'm an allround employee at Postfly.nl and a junior full-stack developer student at Code Institute.
 
