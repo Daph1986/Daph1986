@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/Daph1986/Daph1986/main/Daph1986.png" alt="Illustration of Daphne" width=273px height=400px/>
+<img align="right" src="https://github.com/Daph1986/Daph1986/blob/main/Bewegend%20logo%20500x500%20%20px.gif" alt="Daphne" width=500px height=500px/>
 
 ### Hi there, I'm Daphne 👋
 
