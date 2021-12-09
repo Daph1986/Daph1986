@@ -6,11 +6,9 @@ I'm an allround employee at Postfly.nl and a junior full-stack developer student
 
 I currently work at a company specialized in offset printing, since 2016 I'm working from my home office :house: 🏢  <br>
 
-Currently I'm busy with my last milestone project for Code Institute:
+### Projects I have finished:
 
 :printer: [POSTFLY Jouw online drukkerij!](https://github.com/Daph1986/postfly_jouw_online_drukkerij)
-
-### Projects I have finished:
 
 :sushi: [MAMAMAKI](https://github.com/Daph1986/mamamaki)
 
