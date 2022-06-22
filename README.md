@@ -5,6 +5,7 @@ I'm an allround employee at Postfly.nl a junior full-stack developer, and a Code
 ### Currently working
 
 I currently work at a company specialized in offset printing, since 2016 I'm working from my home office :house: 🏢  <br>
+At the moment I'm renewing our company website completely from scratch.
 
 ### Projects I have finished:
 
