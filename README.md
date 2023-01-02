@@ -51,6 +51,7 @@ At the moment I'm renewing our company website completely from scratch.
 
 ![Daphne's GitHub stats](https://github-readme-stats.vercel.app/api?username=daph1986&show_icons=true&theme=omni)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daph1986&show_icons=true&locale=en&layout=compact" alt="Daph86" /></p>
 
 ![](https://komarev.com/ghpvc/?username=daph1986&color=blueviolet&style=flat-square)
 
