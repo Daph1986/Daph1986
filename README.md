@@ -50,7 +50,7 @@ At the moment I'm renewing our company website completely from scratch.
 <br />
 
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Daph1986&show_icons=true&hide_border=true" />
-
+![Daph1986's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=omni&show_icons=true)
 <br />
 
 
