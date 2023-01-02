@@ -48,6 +48,7 @@ At the moment I'm renewing our company website completely from scratch.
 :dove: [Twitter](https://twitter.com/Daphn1986)
 
 <br />
+
 ![Daphne's GitHub stats](https://github-readme-stats.vercel.app/api?username=daph1986&theme=omni&show_icons=true)
 <br />
 
