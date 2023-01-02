@@ -47,9 +47,9 @@ At the moment I'm renewing our company website completely from scratch.
 :handshake: [LinkedIn](https://www.linkedin.com/in/daphne-heimgartner/)<br>
 :dove: [Twitter](https://twitter.com/Daphn1986)
 
-### Stats
+### Stats:
 
-![Daphne's GitHub stats](https://github-readme-stats.vercel.app/api?username=daph1986&theme=omni&show_icons=true)
+![Daphne's GitHub stats](https://github-readme-stats.vercel.app/api?username=daph1986&show_icons=true&theme=omni)
 
 
 
