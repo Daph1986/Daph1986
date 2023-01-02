@@ -7,15 +7,14 @@ I'm an allround employee at Postfly.nl a junior full-stack developer, and a Code
 I currently work at a company specialized in offset printing, since 2016 I'm working from my home office :house: 🏢  <br>
 At the moment I'm renewing our company website completely from scratch.
 
-### Projects I have finished:
+### Milestone Projects - Diploma in Software Development, Code Institute:
 
-:printer: [POSTFLY Jouw online drukkerij!](https://github.com/Daph1986/postfly_jouw_online_drukkerij)
-
-:sushi: [MAMAMAKI](https://github.com/Daph1986/mamamaki)
-
-:art:[POSTFLY Business Card Creator](https://github.com/Daph1986/Postfly-business-card-creator)
-
-:full_moon: [Follow the moon](https://github.com/Daph1986/Follow-the-moon)
+| Project No. | Project Title | Description | Languages & Technologies Used | Grade |
+| :---: | :---: | :---: | :---: | :---: |
+| MS1 | **:full_moon: Follow the moon** ![Follow the moon](https://github.com/Daph1986/Follow-the-moon) is a fictional site about living with the flow of the moon. The site’s goal is to share information, tips and tricks about living with the flow of the moon.| HTML and CSS | Pass | 
+| MS2 | **:art: POSTFLY Business Card Creator** ![POSTFLY Business Card Creator](https://github.com/Daph1986/Postfly-business-card-creator) is a fictional site where it is possible to design your own business cards.  | HTML, CSS and JavaScript | Merit | 
+| MS3 | **:sushi: MAMAMAKI** ![MAMAMAKI](https://github.com/Daph1986/mamamaki) is a site for Japanese home cooking recipes and when you are logged in, you can add, edit and delete your own recipes.  | HTML, CSS, JavaScript and Python | Merit | 
+| MS4 | **:printer: POSTFLY Jouw online drukkerij!** ![POSTFLY Jouw online drukkerij!](https://github.com/Daph1986/postfly_jouw_online_drukkerij) is a site where you can order all your necessary printed matter online.  | HTML, CSS, JavaScript and Python | Distinction | 
 
 ### :gear: Technologies which I'm familiar with:
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
