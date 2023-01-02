@@ -44,7 +44,7 @@ At the moment I'm renewing our company website completely from scratch.
 - :love_hotel: Other: 💓 Married and mother to a son 💙.
 
 #### Ways to contact me :pager: :
-:handshake: [LinkedIn](https://www.linkedin.com/in/daphne-heimgartner/)<br>
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/daphne-heimgartner/)<br>
 :dove: [Twitter](https://twitter.com/Daphn1986)
 
 ### Stats:
