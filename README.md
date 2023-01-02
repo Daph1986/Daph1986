@@ -43,6 +43,10 @@ At the moment I'm renewing our company website completely from scratch.
 - :sunrise: Fun fact: I love to do yoga🙏, cook Japanese :crossed_flags:food 🍱 and travel ✈️.
 - :love_hotel: Other: 💓 Married and mother to a son 💙.
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-eta-ivory.vercel.app/api/spotify)](https://open.spotify.com/user/21wwm355hav74sc4ixkecwkai)
+
 #### Ways to contact me :pager: :
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/daphne-heimgartner/)<br>
 [<img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/Daphn1986)
