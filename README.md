@@ -42,8 +42,7 @@ At the moment I'm renewing our company website completely from scratch.
 - 😄 Pronouns: she / hers.
 - :sunrise: Fun fact: I love to do yoga🙏, cook Japanese :crossed_flags:food 🍱 and travel ✈️.
 - :love_hotel: Other: 💓 Married and mother to a son 💙.
-
-### Spotify Playing 🎧
+#### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wwm355hav74sc4ixkecwkai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=ab4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
