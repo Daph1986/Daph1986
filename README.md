@@ -45,7 +45,7 @@ At the moment I'm renewing our company website completely from scratch.
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-eta-ivory.vercel.app/api/spotify)](https://open.spotify.com/user/21wwm355hav74sc4ixkecwkai)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21wwm355hav74sc4ixkecwkai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=ab4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 #### Ways to contact me :pager: :
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/daphne-heimgartner/)<br>
