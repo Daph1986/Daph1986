@@ -49,7 +49,7 @@ At the moment I'm renewing our company website completely from scratch.
 
 <br />
 
-![Daph1986's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=omni&show_icons=true)
+![Daph1986's GitHub stats](https://github-readme-stats.vercel.app/api?username=daph1986&theme=omni&show_icons=true)
 <br />
 
 
