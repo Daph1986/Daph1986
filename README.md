@@ -1,10 +1,10 @@
 <img align="center" src="https://github.com/Daph1986/Daph1986/blob/main/Bewegend%20logo%20500x500%20%20px.gif" alt="Daphne" width=550px height=300px/>
 
-I'm an allround employee at Postfly.nl a Junior Full Stack Software Developer, and a Code Institute Alumna.
+I'm a Junior Full Stack Software Developer, and a Code Institute Alumna.
 
 ### Currently working
 
-I currently work at a company specialized in offset printing, since 2016 I'm working from my home office :house: 🏢  <br>
+I'm currently at home :house: looking for new opportunities 🏢  <br>
 
 ### Milestone Projects - Diploma in Software Development, Code Institute:
 
