@@ -4,7 +4,7 @@ I'm a Junior Full Stack Software Developer, and a Code Institute Alumna.
 
 ### Currently working
 
-I'm currently at home :house: looking for new opportunities 🏢  <br>
+I'm currently at home :house: as owner of <Hello Daphne/> 🏢  <br>
 
 ### Milestone Projects - Diploma in Software Development, Code Institute:
 
