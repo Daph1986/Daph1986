@@ -36,6 +36,8 @@ I'm currently at home :house: as owner of Hello Daphne 🏢  <br>
 [![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/irinatu17)
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=for-the-badge&logo=Vercel&logoColor=FFFFFF)
+
 
 ### Other info:
 - 😄 Pronouns: she / hers.
